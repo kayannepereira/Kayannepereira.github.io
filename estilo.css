@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    border: 5px solid gray;
+    width: 180px;
+}
+.titulo{
+    font-size: 40px;
+    color: darkblue;
+}
+.subtitulo{
+    font-size: 28px;
+    color: darkred;
+}
+.contato{
+    font-size: 18px;
+    font-family: arial;
+    font-weight: bold;
+    line-height: 150%;
+}
+body{
+    background-color: aquamarine;
+}
